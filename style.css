@@ -1,0 +1,11 @@
+img{
+    max-height: 300px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: aliceblue;
+    width: 800px;
+    margin: 20px auto;
+}
